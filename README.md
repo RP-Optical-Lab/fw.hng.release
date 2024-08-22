@@ -16,4 +16,5 @@ sudo ./update.sh fw_hng-xxx.tar.gz
 ### Bugs fixed:
 1. New release without bugs and problems 🏆
 ### Notes:
-1. The release works as expected
+1. Each SDI RX with VPSS CSC 
+2. VCU Encoder + Decoder
